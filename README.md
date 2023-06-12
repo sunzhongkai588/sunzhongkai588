@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Community Activity**
 
-- 🤝 I’m looking for help with [Call for Teachers](https://github.com/sunzhongkai588/LearnDL)
+- 🤝 I’m looking for help with [Call for 「LearnDL」Teachers](https://github.com/sunzhongkai588/LearnDL)
 
 - 📫 How to reach me **sunzhongkai@baidu.com**
 
