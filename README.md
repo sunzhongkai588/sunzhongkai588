@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunzhongkai588&label=Profile%20views&color=0e75b6&style=flat" alt="sunzhongkai588" /> </p>
 
-Note： 
   
 ----------
 
@@ -30,6 +29,14 @@ Note：
 - 👯 I’m looking to collaborate on **Community Activity**
 
 - 📫 How to reach me **sunzhongkai@baidu.com**
+
+
+----------
+🔥 **启航计划** ➡️ https://github.com/PaddlePaddle/Paddle/issues/58497
+
+如果想参与飞桨开源社区，这是一个对新手非常友好的活动～
+
+----------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
