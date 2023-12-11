@@ -30,11 +30,17 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sunzhongkai@baidu.com**
 
+- 📄 PaddlePaddle **[community blog](https://pfcc.blog)**
 
 ----------
 🔥 **启航计划** ➡️ https://github.com/PaddlePaddle/Paddle/issues/58497
 
-如果想参与飞桨开源社区，这是一个对新手非常友好的活动～
+> 如果想参与飞桨开源社区，这是一个对新手非常友好的活动～
+
+📚 **飞桨开源社区博客** ➡️ https://pfcc.blog
+
+> 这是一个半官方的、由社区成员自发维护的、用来记录飞桨开源社区故事的博客。
+
 
 ----------
 
