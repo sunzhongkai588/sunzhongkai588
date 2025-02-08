@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 - 📄 PaddlePaddle **[community blog](https://pfcc.blog)**
 
 ----------
+
+> [!IMPORTANT]
+> 想知道 2024 年飞桨社区都干了些什么吗？请看！**[2024 年飞桨开源社区年度报告](https://pfcc.blog/posts/2024-summary)**
+
 🔥 **启航计划** 
 
 - 第一期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/58497 **（已结营）**
