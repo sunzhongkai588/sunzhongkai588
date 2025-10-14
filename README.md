@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 - 第二期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/62347 **（增加精品小团）**
 - 第三期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/65279 **（与北航线下合作）**
 - 第四期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/69152 **（与川大线下合作）**
+- 第五期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/71491 **（与北理工线下合作）**
+- 第六期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/75250 🔥火热进行
 
 
 > 如果刚接触飞桨开源社区，这是一个对新手非常友好的活动～
@@ -51,12 +53,16 @@ Here are some ideas to get you started:
 
 - 第六期黑客松护航计划集训营 ➡️ https://github.com/PaddlePaddle/Paddle/issues/61006
 - 第七期黑客松护航计划集训营 ➡️ https://github.com/PaddlePaddle/Paddle/issues/67601
+- 第八期黑客松护航计划集训营 ➡️ https://github.com/PaddlePaddle/Paddle/issues/71312
+- 第九期黑客松护航计划集训营 ➡️ https://github.com/PaddlePaddle/Paddle/issues/74775
 
 > 如果已经对飞桨很熟悉，并且对技术感到自信的同学，可以参与这个远程集训项目~有研发的一对一指导哦
 
 👨‍💻 **黑客马拉松** 
 - 第六期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/62904
 - 第七期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/68242
+- 第八期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/71315
+- 第九期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/74777 🔥火热进行
 
 > 赛题制任务，充满挑战性，奖励也很丰厚哦~
 
