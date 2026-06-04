@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ----------
 
 > [!IMPORTANT]
-> 想知道 2024 年飞桨社区都干了些什么吗？请看！**[2024 年飞桨开源社区年度报告](https://pfcc.blog/posts/2024-summary)**
-> 想知道 2025 年飞桨社区都干了些什么吗？请看！**[2025 飞桨开源派对夜](https://www.canva.cn/design/DAHAWzxQcRw/0IdN48iZgOvMZ4f1b685Iw/edit?utm_content=DAHAWzxQcRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+> - 想知道 2024 年飞桨社区都干了些什么吗？请看！**[2024 年飞桨开源社区年度报告](https://pfcc.blog/posts/2024-summary)**
+> - 想知道 2025 年飞桨社区都干了些什么吗？请看！**[2025 飞桨开源派对夜](https://www.canva.cn/design/DAHAWzxQcRw/0IdN48iZgOvMZ4f1b685Iw/edit?utm_content=DAHAWzxQcRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 
 🔥 **启航计划** 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 第三期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/65279 **（与北航线下合作）**
 - 第四期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/69152 **（与川大线下合作）**
 - 第五期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/71491 **（与北理工线下合作）**
-- 第六期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/75250 🔥火热进行
+- 第六期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/75250 
 
 
 > 如果刚接触飞桨开源社区，这是一个对新手非常友好的活动～
