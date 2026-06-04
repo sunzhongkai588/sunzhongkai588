@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 > [!IMPORTANT]
 > 想知道 2024 年飞桨社区都干了些什么吗？请看！**[2024 年飞桨开源社区年度报告](https://pfcc.blog/posts/2024-summary)**
+> 想知道 2025 年飞桨社区都干了些什么吗？请看！**[2025 飞桨开源派对夜](https://www.canva.cn/design/DAHAWzxQcRw/0IdN48iZgOvMZ4f1b685Iw/edit?utm_content=DAHAWzxQcRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 
 🔥 **启航计划** 
 
@@ -62,7 +64,7 @@ Here are some ideas to get you started:
 - 第六期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/62904
 - 第七期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/68242
 - 第八期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/71315
-- 第九期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/74777 🔥火热进行
+- 第九期 ➡️ https://github.com/PaddlePaddle/Paddle/issues/74777 
 
 > 赛题制任务，充满挑战性，奖励也很丰厚哦~
 
